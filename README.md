@@ -1,6 +1,8 @@
 Android App for foreign visitors to Beijing. 
-\\ Return the shortest path between any two subway stations. 
-\\ Allow multiple(flexible) definition on "shortest": Minimal time; # of transfers; # of sites along the way.
+
+Return the shortest path between any two subway stations. 
+
+Allow multiple(flexible) definition on "shortest": Minimal time; # of transfers; # of sites along the way.
 
 Use: for Android mobile user, use the app/release/app-release.apk
 
