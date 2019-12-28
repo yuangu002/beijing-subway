@@ -1,0 +1,257 @@
+Pingguoyuan	苹果园  0 1 0
+Gucheng	        古城 0 1 0
+Bajiao_Amusement_Park	八角游乐园 0 1 0
+Babaoshan	八宝山 0 1 0
+Yuquanlu	玉泉路 0 1 0
+Wukesong	五棵松 0 1 0
+Wanshoulu	万寿路 0 1 0
+Gongzhufen	公主坟 1	1 10 0
+Military_Museum	军事博物馆	 1 1 9 0
+Muxidi	        木樨地	0 1 1 Capital_Museum
+Nanlishilu	南礼士路	0 1 0
+Fuxingmen	复兴门  1 1 2 0
+Xidan	        西单    	1 1 4 1 Xidan_Joy_City
+Tian'anmen_West	天安门西	0 1 1 National_Center_for_Performing_Arts
+Tian'anmen_East	天安门东	0 1 1 Tian'anmen_Square,_Mausoleum_of_Mao_Zedong,_Forbidden_City
+Wangfujing	王府井	0 1 1 Wangfujing_Shopping_Street
+Dongdan 	东单	1 1 5 0
+Jianguomen	建国门	1 1 2 0
+Yong'anli	永安里	0 1 1 Silk_Steet
+Guomao	        国贸	1 1 10 1 China_World_Trade_Center
+Dawanglu	大望路	1 1 14 0
+Sihui	        四惠     0 1 0 
+Sihui_East	四惠东   0 1 0
+Xizhimen	西直门	2 2 4 13 0
+Chegongzhuang	车公庄	1 2 6 0
+Fuchengmen	阜成门	0 2 0
+Changchunjie	长椿街	0 2 0
+Xuanwumen	宣武门	1 2 4 1 Xuanwu_Park
+Hepingmen	和平门	0 2 1 Quanjude_Peking_Duck
+Qianmen	        前门     0 2 1 Dashilar_Pedestrian_Street
+Chongwenmen	崇文门	1 2 5 0
+Beijing_Railway_Station	北京站	0 2 0
+Chaoyangmen	朝阳门	1 2 6 0
+Dongsi_Shitiao	东四十条	0 2 1 Dadong_Peking_Duck
+Dongzhimen	东直门	2 2 13 0 0
+Yonghegong	雍和宫	1 2 5 1 Lama_Temple
+Andingmen	安定门   0 2 0
+Guloudajie	鼓楼大街	1 2 8 1 Drum_Tower
+Jishuitan	积水潭   0 2 0
+Anheqiao_North	安河桥北 0 4 0
+Beigongmen	北宫门  0 4 0
+Xiyuan	西苑	1 4 16 1 Summer_Palace
+Yuanmingyuan	圆明园  0 4 0
+East_Gate_of_Peking_University	北京大学东门  0 4 1 Peking_University
+Zhongguancun	中关村	0 4 1 China's_Silicon_Valley
+Haidian_Huangzhuang	海淀黄庄	 1 4 10 0
+Renmin_University	人民大学  0 4 0
+Weigongcun	魏公村  0 4 0
+National_Library	国家图书馆	 1 4 9 0 
+Beijing_Zoo	动物园	0 4 0
+Xinjiekou	新街口	0 4 0
+Ping'anli	平安里	 1 4 6 1 Huguosi_Snacks_Street
+Xisi	西四	0 4 0
+Lingjing_Hutong	灵境胡同	0 4 0
+Caishikou	菜市口	 1 4 7 0
+Taoranting	陶然亭    0 4 1 Taoranting_Park
+Beijing_South_Railway_Station	北京南站	 1 4 14 0	
+Majiapu	马家堡  0 4 0
+Jiaomen_West	角门西	1 4 10 0
+Gongyixiqiao	公益西桥	0 4 0
+Songjiazhuang	宋家庄   1 5 10 0
+Liujiayao	刘家窑	0 5 0
+Puhuangyu	蒲黄榆	1 5 14 0
+Tiantandongmen	天坛东门  0 5 1 Temple_of_Heaven
+Ciqikou	磁器口	1 5 7 0
+Dengshikou	灯市口   0 5 0
+Dongsi	东四	 1 5 6 0
+Zhangzizhonglu	张自忠路	0 5 0
+Beixinqiao	北新桥	0 5 0
+Hepingli_Beijie	和平里北街	  0 5 1 Temple_of_Earth
+Hepingxiqiao	和平西桥   0 5 0
+Huixinxijie_Nankou	惠新西街南口  1 5 10 0
+Huixinxijie_Beikou	惠新西街北口  0 5 0
+Datunlu_East	大屯路东	 1 5 15 0
+Beiyuanlu_North	北苑路北	0 5 0
+Lishuiqiao_South	立水桥南  0 5 0
+Lishuiqiao	立水桥	1 5 13 0
+Tiantongyuan_South	天通苑南  0 5 0
+Tiantongyuan	天通苑  0 5 0
+Tiantongyuan_North	天通苑北  0 5 0
+Jin'anqiao	金安桥   0 6 0
+Yang_Zhuang	杨庄  0 6 0
+Xihuang_Cun	西黄村 0 6 0
+Liaogong_Zhuang	廖公庄 0 6 0
+Tian_Cun	田村 0 6 0
+Haidian_Wuluju	海淀五路居 0 6 0
+Cishousi	慈寿寺	 1 6 10 0 
+Huayuanqiao	花园桥  0 6 0
+Baishiqiao_South	白石桥南	1 6 9 0
+Chegongzhuang_West	车公庄西	0 6 0
+Beihai_North	北海北	0 6 1 Beihai_Park
+Nanluoguxiang	南锣鼓巷	 1 6 8 1 South_Gong_and_Drum_Lane
+Dongdaqiao	东大桥	0 6 0
+Hujialou	呼家楼	 1 6 10 0
+Jintailu	金台路	 1 6 14 0
+Shilipu	 十里堡  0 6 0
+Qingnianlu	青年路  0 6 1 Chaoyang_Joy_City
+Dalianpo	褡裢坡  0 6 0
+Huangqu	黄渠	0 6 0
+Changying	常营  0 6 0
+Caofang	草房	0 6 0
+Wuzixueyuanlu	物资学院路	  0 6 0
+Tongzhou_Beiguan	通州北关	0 6 0
+Tongyunmen	通运门	0 6 0
+Beiyunhe_West	北运河西	0 6 0
+Beiyunhe_East	北运河东	0 6 0
+Haojiafu	郝家府  0 6 0
+Dongxiayuan	东夏园  0 6 0
+Lucheng	潞城   0 6 0
+Beijing_West_Railway_Station	北京西站	 1 7 9 0
+Wanzi	湾子  0 7 0
+Daguanying	达官营  0 7 0
+Guang'anmennei	广安门内  0 7 1 Beijing_Muslim_Community
+Hufangqiao	虎坊桥	0 7 0
+Zhushikou	珠市口	1 7 8 0
+Qiaowan	桥湾   0 7 0
+Guangqumennei	广渠门内	  0 7 0
+Guangqumenwai	广渠门外	  0 7 0
+Jiulongshan	九龙山	  1 7 14 0
+Dajiaoting	大郊亭	  0 7 0
+Baiziwan	百子湾  0 7 0
+Huagong	化工  0 7 0
+Nanlouzizhuang	南楼梓庄  0 7 0
+Happy_Valley_Scenic_Area  欢乐谷景区  0 7 0
+Fatou	垡头  0 7 0
+Shuanghe	双合  0 7 0
+Jiaohuachang	焦化厂  0 7 0
+Zhuxinzhuang	朱辛庄   0 8 0
+Yuzhilu	育知路  0 8 0
+Pingxifu	平西府  0 8 0
+Huilongguan_Dongdajie	回龙观东大街  0 8 0
+Huoying	霍营	 1 8 13 0
+Yuxin	育新	  0 8 0
+Xixiaokou	西小口  0 8 0
+Yongtaizhuang	永泰庄  0 8 0
+Lincuiqiao	林萃桥  0 8 0
+South_Gate_of_Forest_Park	森林公园南门  0 8 0
+Olympic_Green	奥林匹克公园	 1 8 15 0
+Olympic_Sports_Center	奥体中心	  0 8 1 National_Stadium,_Beijing_Olympic_Park
+Beitucheng	北土城	 1 8 10 0
+Anhuaqiao	安华桥	  0 8 0
+Andelibeijie	安德里北街  0 8 0
+Shichahai	什刹海	 0 8 1 Houhai_Bar_Street
+National_Art_Museum	中国美术馆  0 8 0
+Tian_Qiao	天桥  0 8 0
+Yongdingmenwai	永定门外	1 8 14 0 	
+Muxi_Yuan	木樨园	  0 8 0
+Haihu_Tun	海户屯	  0 8 0
+Dahongmen_South	大红门南	  0 8 0
+Heyi	和义	  0 8 0
+Donggao_Di	东高地	  0 8 0
+Huojian_Wanyuan	火箭万源	  0 8 0
+Wufu_Tang	五福堂	  0 8 0
+Demao	德茂  0 8 0
+Yinghai	瀛海  0 8 0
+Baiduizi	白堆子	0 9 0
+Liuliqiao_East	六里桥东	0 9 0
+Liuliqiao	六里桥	 1 9 10 0
+Qilizhuang	七里庄	 1 9 14 0
+Fengtai_Dongdajie	丰台东大街		0 9 0
+Fengtainanlu	丰台南路		0 9 0
+Keyilu	科怡路	0 9 1 Beijing_Car_Museum
+Fengtai_Science_Park	丰台科技园		0 9 0
+Guogongzhuang	郭公庄	0 9 0
+Bagou	巴沟   0 10 0
+Suzhoujie	苏州街	   0 10 0
+Zhichunli	知春里   0 10 0
+Zhichunlu	知春路	 1 10 13 0 	
+Xitucheng	西土城	   0 10 0
+Mudanyuan	牡丹园	   0 10 0
+Jiandemen	健德门   0 10 0
+Anzhenmen	安贞门   0 10 0
+Shaoyaoju	芍药居	 1 10 13 0
+Taiyanggong	太阳宫	   0 10 0
+Sanyuanqiao	三元桥	 1 10 0 0
+Liangmaqiao	亮马桥	   0 10 1 Foreign_Embassies
+Agricultural_Exhibition_Center	农业展览馆	   0 10 0
+Tuanjiehu	团结湖	   0 10 1 Sanlitun_CBD
+Jintaixizhao	金台夕照   0 10 0
+Shuangjing	双井   0 10 0
+Jinsong	劲松   0 10 0
+Panjiayuan	潘家园   0 10 0
+Shilihe	十里河	 1 10 14 0
+Fenzhongsi	分钟寺   0 10 0
+Chengshousi	成寿寺   0 10 0
+Shiliuzhuang	石榴庄   0 10 0
+Dahongmen	大红门	0 10 0
+Jiaomen_East	角门东   0 10 0
+Caoqiao	草桥   0 10 0
+Jijiamiao	纪家庙   0 10 0
+Shoujingmao	首经贸   0 10 0
+Fengtai_Railway_Station	丰台站	   0 10 0
+Niwa	泥洼   0 10 0
+Xiju	西局	1 10 14 0	
+Lianhuaqiao	莲花桥   0 10 0
+Xidiaoyutai	西钓鱼台   0 10 0
+Chedaogou	车道沟   0 10 0
+Changchunqiao	长春桥   0 10 0
+Huoqiying	火器营   0 10 0	
+Dazhongsi	大钟寺    0 13 0
+Wudaokou	五道口    0 13 0
+Shangdi	上地    0 13 0
+Xi'erqi	西二旗    0 13 0
+Longze	龙泽    0 13 0
+Huilongguan	回龙观    0 13 0
+Beiyuan	北苑	    0 13 0
+Wangjing_West	望京西	 1 13 15 0
+Guangximen	光熙门	    0 13 0
+Liufang	柳芳    0 13 0
+Zhangguozhuang	张郭庄  0 14 0
+Garden_Expo_Park	园博园  0 14 0
+Dawayao	大瓦窑  0 14 0
+Guozhuangzi	郭庄子  0 14 0
+Dajing	大井  0 14 0
+Taoranqiao  陶然桥 0 14 0
+Jingtai	景泰  0 14 0
+Fangzhuang	方庄	 0 14 0
+Beigongdaximen	北工大西门	  0 14 0
+Pingleyuan  平乐园 0 14 0
+Chaoyang_Park	朝阳公园	  0 14 0
+Zaoying	枣营  0 14 0
+Dongfeng_Beiqiao	东风北桥	  0 14 0
+Jiangtai	将台	  0 14 1 798_Art_Zone
+Gaojiayuan	高家园	  0 14 0
+Wangjing_South	望京南  0 14 0
+Futong	阜通  0 14 0
+Wangjing	望京	1 14 15 0
+Donghuqu	东湖渠	  0 14 0
+Laiguangying	来广营	  0 14 0
+Shan'gezhuang	善各庄  0 14 0
+Qinghuadongluxikou	清华东路西口   0 15 1 Tsinghua_University	
+Liudaokou	六道口	   0 15 0
+Beishatan	北沙滩   0 15 0
+Anlilu	安立路	   0 15 0
+Guanzhuang	关庄   0 15 0
+Wangjing_East	望京东   0 15 0
+Cuigezhuang	崔各庄	   0 15 0
+Maquanying	马泉营	   0 15 0
+Sunhe	孙河   0 15 0
+China_International_Exhibition_Center	国展   0 15 0
+Hualikan	花梨坎	   0 15 0
+Houshayu	后沙峪	   0 15 0
+Nanfaxin	南法信	   0 15 0
+Shimen	石门	   0 15 0
+Shunyi	顺义	   0 15 0
+Fengbo	俸伯	   0 15 0
+Bei'anhe	北安河   0 16 0
+Wenyanglu	温阳路   0 16 0
+Daoxianghulu	稻香湖路   0 16 0
+Tundian	屯佃   0 16 0
+Yongfeng	永丰   0 16 0	
+Yongfeng_South	永丰南   0 16 0
+Xibeiwang	西北旺	 0 16 0
+Malianwa	马连洼  0 16 0
+Nongdananlu	农大南路   0 16 0
+Beijing_Capital_International_Airport_Terminal_3 T3航站楼	 0 0 1 Beijing_Capital_International_Airport
+Beijing_Capital_International_Airport_Terminal_2	T2航站楼	  0 0 0

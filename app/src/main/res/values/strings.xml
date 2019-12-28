@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BJsubway</string>
+    <string name="welcome">Welcome to Beijing</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="startB">Start</string>
+    <string name="ok">OK</string>
+    <string name="back">BACK</string>
+    <string name="path">Recommended Path</string>
+    <string name="interest">Must See along the way</string>
+    <string name="prioritymsg">What\'s your priority?</string>
+    <string name="time">Minimal time</string>
+    <string name="transfer">Least transfer stations</string>
+    <string name="most">Most sites</string>
+</resources>

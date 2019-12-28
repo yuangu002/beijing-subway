@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="fromTo">
+        <item>Station</item>
+        <item>Site</item>
+    </string-array>
+
+    <string-array name="line">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>Airport Express</item>
+    </string-array>
+
+    <string-array name="site">
+        <item>Beijing Capital International Airport</item>
+        <item>Tian\'anmen Square</item>
+        <item>Temple of Heaven</item>
+        <item>Forbidden City</item>
+        <item>National Center for Performing Arts</item>
+        <item>Summer Palace</item>
+        <item>Foreign Embassies</item>
+        <item>Beijing Olympic Park</item>
+        <item>Wangfujing Shopping Street</item>
+        <item>China World Trade Center</item>
+        <item>Dashilar Pedestrian Street</item>
+        <item>Lama Temple</item>
+        <item>Drum Tower</item>
+        <item>Peking University</item>
+        <item>Tsinghua University</item>
+        <item>China\'s Silicon Valley</item>
+        <item>Beihai Park</item>
+        <item>National Stadium</item>
+        <item>798 Art Zone</item>
+        <item>Sanlitun CBD</item>
+        <item>Houhai Bar Street</item>
+        <item>Dadong Peking Duck</item>
+        <item>Quanjude Peking Duck</item>
+    </string-array>
+
+    <string-array name="line0">
+        <item>Dongzhimen (东直门)</item>
+        <item>Sanyuanqiao (三元桥)</item>
+        <item>Beijing Capital International Airport Terminal 3 (T3航站楼)</item>
+        <item>Beijing Capital International Airport Terminal 2 (T2航站楼)</item>
+    </string-array>
+
+    <string-array name="line1">
+        <item>Pingguoyuan (苹果园)</item>
+        <item>Gucheng (古城)</item>
+        <item>Bajiao Amusement Park (八角游乐园)</item>
+        <item>Babaoshan (八宝山)</item>
+        <item>Yuquanlu (玉泉路)</item>
+        <item>Wukesong (五棵松)</item>
+        <item>Wanshoulu (万寿路)</item>
+        <item>Gongzhufen (公主坟)</item>
+        <item>Military Museum (军事博物馆)</item>
+        <item>Muxidi (木樨地)</item>
+        <item>Nanlishilu (南礼士路)</item>
+        <item>Fuxingmen (复兴门)</item>
+        <item>Xidan (西单)</item>
+        <item>Tian\'anmen West (天安门西)</item>
+        <item>Tian\'anmen East (天安门东)</item>
+        <item>Wangfujing (王府井)</item>
+        <item>Dongdan (东单)</item>
+        <item>Jianguomen (建国门)</item>
+        <item>Yong\'anli (永安里)</item>
+        <item>Guomao (国贸)</item>
+        <item>Dawanglu (大望路)</item>
+        <item>Sihui (四惠)</item>
+        <item>Sihui East (四惠东)</item>
+    </string-array>
+
+    <string-array name="line2">
+        <item>Xizhimen (西直门)</item>
+        <item>Jishuitan (积水潭)</item>
+        <item>Guloudajie (鼓楼大街)</item>
+        <item>Andingmen (安定门)</item>
+        <item>Yonghegong (雍和宫)</item>
+        <item>Dongzhimen (东直门)</item>
+        <item>Dongsi Shitiao (东四十条)</item>
+        <item>Chaoyangmen (朝阳门)</item>
+        <item>Jianguomen (建国门)</item>
+        <item>Beijing Railway Station (北京站)</item>
+        <item>Chongwenmen (崇文门)</item>
+        <item>Qianmen (前门)</item>
+        <item>Hepingmen (和平门)</item>
+        <item>Xuanwumen (宣武门)</item>
+        <item>Changchunjie (长椿街)</item>
+        <item>Fuxingmen (复兴门)</item>
+        <item>Fuchengmen (阜成门)</item>
+        <item>Chegongzhuang (车公庄)</item>
+    </string-array>
+
+    <string-array name="line4">
+        <item>Anheqiao North (安河桥北)</item>
+        <item>Beigongmen (北宫门)</item>
+        <item>Xiyuan (西苑)</item>
+        <item>Yuanmingyuan (圆明园)</item>
+        <item>East Gate of Peking University (北京大学东门)</item>
+        <item>Zhongguancun (中关村)</item>
+        <item>Haidian Huangzhuang (海淀黄庄)</item>
+        <item>Renmin University (人民大学)</item>
+        <item>Weigongcun (魏公村)</item>
+        <item>National Library (国家图书馆)</item>
+        <item>Beijing Zoo (动物园)</item>
+        <item>Xizhimen (西直门)</item>
+        <item>Xinjiekou (新街口)</item>
+        <item>Ping\'anli (平安里)</item>
+        <item>Xisi (西四)</item>
+        <item>Lingjing Hutong (灵境胡同)</item>
+        <item>Xidan (西单)</item>
+        <item>Xuanwumen (宣武门)</item>
+        <item>Caishikou (菜市口)</item>
+        <item>Taoranting (陶然亭)</item>
+        <item>Beijing South Railway Station (北京南站)</item>
+        <item>Majiapu (马家堡)</item>
+        <item>Jiaomen West (角门西)</item>
+        <item>Gongyixiqiao (公益西桥)</item>
+    </string-array>
+
+    <string-array name="line5">
+        <item>Tiantongyuan North (天通苑北)</item>
+        <item>Tiantongyuan (天通苑)</item>
+        <item>Tiantongyuan South (天通苑南)</item>
+        <item>Lishuiqiao (立水桥)</item>
+        <item>Lishuiqiao South (立水桥南)</item>
+        <item>Beiyuanlu North (北苑路北)</item>
+        <item>Datunlu East (大屯路东)</item>
+        <item>Huixinxijie Beikou (惠新西街北口)</item>
+        <item>Huixinxijie Nankou (惠新西街南口)</item>
+        <item>Hepingxiqiao (和平西桥)</item>
+        <item>Hepingli Beijie (和平里北街)</item>
+        <item>Yonghegong (雍和宫)</item>
+        <item>Beixinqiao (北新桥)</item>
+        <item>Zhangzizhonglu (张自忠路)</item>
+        <item>Dongsi (东四)</item>
+        <item>Dengshikou (灯市口)</item>
+        <item>Dongdan (东单)</item>
+        <item>Chongwenmen (崇文门)</item>
+        <item>Ciqikou (磁器口)</item>
+        <item>Tiantandongmen (天坛东门)</item>
+        <item>Puhuangyu (蒲黄榆)</item>
+        <item>Liujiayao (刘家窑)</item>
+        <item>Songjiazhuang (宋家庄)</item>
+    </string-array>
+
+    <string-array name="line6">
+        <item>Jin\'anqiao (金安桥)</item>
+        <item>Yang Zhuang (杨庄)</item>
+        <item>Xihuang Cun (西黄村)</item>
+        <item>Liaogong Zhuang (廖公庄)</item>
+        <item>Tian Cun (田村)</item>
+        <item>Haidian Wuluju (海淀五路居)</item>
+        <item>Cishousi (慈寿寺)</item>
+        <item>Huayuanqiao (花园桥)</item>
+        <item>Baishiqiao South (白石桥南)</item>
+        <item>Chegongzhuang West (车公庄西)</item>
+        <item>Chegongzhuang (车公庄)</item>
+        <item>Ping\'anli (平安里)</item>
+        <item>Beihai North (北海北)</item>
+        <item>Nanluoguxiang (南锣鼓巷)</item>
+        <item>Dongsi (东四)</item>
+        <item>Chaoyangmen (朝阳门)</item>
+        <item>Dongdaqiao (东大桥)</item>
+        <item>Hujialou (呼家楼)</item>
+        <item>Jintailu (金台路)</item>
+        <item>Shilipu (十里堡)</item>
+        <item>Qingnianlu (青年路)</item>
+        <item>Dalianpo (褡裢坡)</item>
+        <item>Huangqu (黄渠)</item>
+        <item>Changying (常营)</item>
+        <item>Caofang (草房)</item>
+        <item>Wuzixueyuanlu (物资学院路)</item>
+        <item>Tongzhou Beiguan (通州北关)</item>
+        <item>Tongyunmen (通运门)</item>
+        <item>Beiyunhe West (北运河西)</item>
+        <item>Beiyunhe East (北运河东)</item>
+        <item>Haojiafu (郝家府)</item>
+        <item>Dongxiayuan (东夏园)</item>
+        <item>Lucheng (潞城)</item>
+    </string-array>
+
+    <string-array name="line7">
+        <item>Beijing West Railway Station (北京西站)</item>
+        <item>Wanzi (湾子)</item>
+        <item>Daguanying (达官营)</item>
+        <item>Guang\'anmennei (广安门内)</item>
+        <item>Caishikou (菜市口)</item>
+        <item>Hufangqiao (虎坊桥)</item>
+        <item>Zhushikou (珠市口)</item>
+        <item>Qiaowan (桥湾)</item>
+        <item>Ciqikou (磁器口)</item>
+        <item>Guangqumennei (广渠门内)</item>
+        <item>Guangqumenwai (广渠门外)</item>
+        <item>Jiulongshan (九龙山)</item>
+        <item>Dajiaoting (大郊亭)</item>
+        <item>Baiziwan (百子湾)</item>
+        <item>Huagong (化工)</item>
+        <item>Nanlouzizhuang (南楼梓庄)</item>
+        <item>Happy Valley Scenic Area (欢乐谷景区)</item>
+        <item>Fatou (垡头)</item>
+        <item>Shuanghe (双合)</item>
+        <item>Jiaohuachang (焦化厂)</item>
+    </string-array>
+
+    <string-array name="line8">
+        <item>Zhuxinzhuang (朱辛庄)</item>
+        <item>Yuzhilu (育知路)</item>
+        <item>Pingxifu (平西府)</item>
+        <item>Huilongguan Dongdajie (回龙观东大街)</item>
+        <item>Huoying (霍营)</item>
+        <item>Yuxin (育新)</item>
+        <item>Xixiaokou (西小口)</item>
+        <item>Yongtaizhuang (永泰庄)</item>
+        <item>Lincuiqiao (林萃桥)</item>
+        <item>South Gate of Forest Park (森林公园南门)</item>
+        <item>Olympic Green (奥林匹克公园)</item>
+        <item>Olympic Sports Center (奥体中心)</item>
+        <item>Beitucheng (北土城)</item>
+        <item>Anhuaqiao (安华桥)</item>
+        <item>Andelibeijie (安德里北街)</item>
+        <item>Guloudajie (鼓楼大街)</item>
+        <item>Shichahai (什刹海)</item>
+        <item>Nanluoguxiang (南锣鼓巷)</item>
+        <item>National Art Museum (中国美术馆)</item>
+        <item>Zhushikou (珠市口)</item>
+        <item>Tian Qiao (天桥)</item>
+        <item>Yongdingmenwai (永定门外)</item>
+        <item>Muxi Yuan (木樨园)</item>
+        <item>Haihu Tun (海户屯)</item>
+        <item>Dahongmen South (大红门南)</item>
+        <item>Heyi (和义)</item>
+        <item>Donggao Di (东高地)</item>
+        <item>Huojian Wanyuan (火箭万源)</item>
+        <item>Wufu Tang (五福堂)</item>
+        <item>Demao (德茂)</item>
+        <item>Yinghai (瀛海)</item>
+    </string-array>
+
+    <string-array name="line9">
+        <item>National Library (国家图书馆)</item>
+        <item>Baishiqiao South (白石桥南)</item>
+        <item>Baiduizi (白堆子)</item>
+        <item>Military Museum (军事博物馆)</item>
+        <item>Beijing West Railway Station (北京西站)</item>
+        <item>Liuliqiao East (六里桥东)</item>
+        <item>Liuliqiao (六里桥)</item>
+        <item>Qilizhuang (七里庄)</item>
+        <item>Fengtai Dongdajie (丰台东大街)</item>
+        <item>Fengtainanlu (丰台南路)</item>
+        <item>Keyilu (科怡路)</item>
+        <item>Fengtai Science Park (丰台科技园)</item>
+        <item>Guogongzhuang (郭公庄)</item>
+    </string-array>
+
+    <string-array name="line10">
+        <item>Bagou (巴沟)</item>
+        <item>Suzhoujie (苏州街)</item>
+        <item>Haidian Huangzhuang (海淀黄庄)</item>
+        <item>Zhichunli (知春里)</item>
+        <item>Zhichunlu (知春路)</item>
+        <item>Xitucheng (西土城)</item>
+        <item>Mudanyuan (牡丹园)</item>
+        <item>Jiandemen (健德门)</item>
+        <item>Beitucheng (北土城)</item>
+        <item>Anzhenmen (安贞门)</item>
+        <item>Huixinxijie Nankou (惠新西街南口)</item>
+        <item>Shaoyaoju (芍药居)</item>
+        <item>Taiyanggong (太阳宫)</item>
+        <item>Sanyuanqiao (三元桥)</item>
+        <item>Liangmaqiao (亮马桥)</item>
+        <item>Agricultural Exhibition Center (农业展览馆)</item>
+        <item>Tuanjiehu (团结湖)</item>
+        <item>Hujialou (呼家楼)</item>
+        <item>Jintaixizhao (金台夕照)</item>
+        <item>Guomao (国贸)</item>
+        <item>Shuangjing (双井)</item>
+        <item>Jinsong (劲松)</item>
+        <item>Panjiayuan (潘家园)</item>
+        <item>Shilihe (十里河)</item>
+        <item>Fenzhongsi (分钟寺)</item>
+        <item>Chengshousi (成寿寺)</item>
+        <item>Songjiazhuang (宋家庄)</item>
+        <item>Shiliuzhuang (石榴庄)</item>
+        <item>Dahongmen (大红门)</item>
+        <item>Jiaomen East (角门东)</item>
+        <item>Jiaomen West (角门西)</item>
+        <item>Caoqiao (草桥)</item>
+        <item>Jijiamiao (纪家庙)</item>
+        <item>Shoujingmao (首经贸)</item>
+        <item>Fengtai Railway Station (丰台站)</item>
+        <item>Niwa (泥洼)</item>
+        <item>Xiju (西局)</item>
+        <item>Liuliqiao (六里桥)</item>
+        <item>Lianhuaqiao (莲花桥)</item>
+        <item>Gongzhufen (公主坟)</item>
+        <item>Xidiaoyutai (西钓鱼台)</item>
+        <item>Chedaogou (车道沟)</item>
+        <item>Changchunqiao (长春桥)</item>
+        <item>Huoqiying (火器营)</item>
+    </string-array>
+
+    <string-array name="line13">
+        <item>Xizhimen (西直门)</item>
+        <item>Dazhongsi (大钟寺)</item>
+        <item>Zhichunlu (知春路)</item>
+        <item>Wudaokou (五道口)</item>
+        <item>Shangdi (上地)</item>
+        <item>Xi\'erqi (西二旗)</item>
+        <item>Longze (龙泽)</item>
+        <item>Huilongguan (回龙观)</item>
+        <item>Huoying (霍营)</item>
+        <item>Lishuiqiao (立水桥)</item>
+        <item>Beiyuan (北苑)</item>
+        <item>Wangjing West (望京西)</item>
+        <item>Shaoyaoju (芍药居)</item>
+        <item>Guangximen (光熙门)</item>
+        <item>Liufang (柳芳)</item>
+        <item>Dongzhimen (东直门)</item>
+    </string-array>
+
+    <string-array name="line14">
+        <item>Zhangguozhuang (张郭庄)</item>
+        <item>Garden Expo Park (园博园)</item>
+        <item>Dawayao (大瓦窑)</item>
+        <item>Guozhuangzi (郭庄子)</item>
+        <item>Dajing (大井)</item>
+        <item>Qilizhuang (七里庄)</item>
+        <item>Xiju (西局)</item>
+        <item>Beijing South Railway Station (北京南站)</item>
+        <item>Yongdingmenwai (永定门外)</item>
+        <item>Jingtai (景泰)</item>
+        <item>Puhuangyu (蒲黄榆)</item>
+        <item>Fangzhuang (方庄)</item>
+        <item>Shilihe (十里河)</item>
+        <item>Beigongdaximen (北工大西门)</item>
+        <item>Jiulongshan (九龙山)</item>
+        <item>Dawanglu (大望路)</item>
+        <item>Jintailu (金台路)</item>
+        <item>Chaoyang Park (朝阳公园)</item>
+        <item>Zaoying (枣营)</item>
+        <item>Dongfeng Beiqiao (东风北桥)</item>
+        <item>Jiangtai (将台)</item>
+        <item>Gaojiayuan (高家园)</item>
+        <item>Wangjing South (望京南)</item>
+        <item>Futong (阜通)</item>
+        <item>Wangjing (望京)</item>
+        <item>Donghuqu (东湖渠)</item>
+        <item>Laiguangying (来广营)</item>
+        <item>Shan\'gezhuang (善各庄)</item>
+    </string-array>
+
+    <string-array name="line15">
+        <item>Qinghuadongluxikou (清华东路西口)</item>
+        <item>Liudaokou (六道口)</item>
+        <item>Beishatan (北沙滩)</item>
+        <item>Olympic Green (奥林匹克公园)</item>
+        <item>Anlilu (安立路)</item>
+        <item>Datunlu East (大屯路东)</item>
+        <item>Guanzhuang (关庄)</item>
+        <item>Wangjing West (望京西)</item>
+        <item>Wangjing (望京)</item>
+        <item>Wangjing East (望京东)</item>
+        <item>Cuigezhuang (崔各庄)</item>
+        <item>Maquanying (马泉营)</item>
+        <item>Sunhe (孙河)</item>
+        <item>China International Exhibition Center (国展)</item>
+        <item>Hualikan (花梨坎)</item>
+        <item>Houshayu (后沙峪)</item>
+        <item>Nanfaxin (南法信)</item>
+        <item>Shimen (石门)</item>
+        <item>Shunyi (顺义)</item>
+        <item>Fengbo (俸伯)</item>
+    </string-array>
+
+    <string-array name="line16">
+        <item>Xiyuan (西苑)</item>
+        <item>Nongdananlu (农大南路)</item>
+        <item>Malianwa (马连洼)</item>
+        <item>Xibeiwang (西北旺)</item>
+        <item>Yongfeng South (永丰南)</item>
+        <item>Yongfeng (永丰)</item>
+        <item>Tundian (屯佃)</item>
+        <item>Daoxianghulu (稻香湖路)</item>
+        <item>Wenyanglu (温阳路)</item>
+        <item>Bei\'anhe (北安河)</item>
+    </string-array>
+
+</resources>
